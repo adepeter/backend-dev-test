@@ -2,30 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b88d2a0-d84c-4105-863a-fb0150f44820" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/highlightedFiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/synopsys_code_sight_state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vagrant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/ingestion.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/ingestion.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/ingestion/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/ingestion/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/ingestion/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/ingestion/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/ingestion/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/ingestion/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/ingestion/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/ingestion/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/ingestion/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/ingestion/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/maio/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/maio/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/maio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/maio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/maio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/maio/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/maio/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/maio/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maio/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/maio/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="9de9bd79-b557-49fd-af5a-84d76098c77c" />
   <component name="MacroExpansionManager">
     <option name="directoryName" value="wfLsqpWr" />
   </component>
   <component name="ProjectId" id="1WkbLXFapItkByZlmx8UWh4vyPT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -36,8 +74,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579696483167</updated>
+      <workItem from="1598348549417" duration="1565000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4463" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1579696557788">
